@@ -10,4 +10,5 @@ task4: script that Display current directory contents, including hidden files, w
 #ls -al
 task5: script that Display current directory contents, including hidden files, with details and with user and group IDs displayed numerically
 #ls -al -n
-
+task6: script that creates a directory named my_first_directory in the /tmp/ directory
+#mkdir /tmp/my_first_directory
