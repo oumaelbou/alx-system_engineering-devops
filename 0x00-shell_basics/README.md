@@ -6,3 +6,5 @@ task2: script that changes the working directory to the user’s home directory
 #cd ~
 task3:script that Display current directory contents with details
 #ls -l
+task4: script that Display current directory contents, including hidden files, with details
+#ls -al
