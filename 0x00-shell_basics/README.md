@@ -14,3 +14,5 @@ task6: script that creates a directory named my_first_directory in the /tmp/ dir
 #mkdir /tmp/my_first_directory
 task7: script that Move the file betty from /tmp/ to /tmp/my_first_directory
 #mkdir /tmp/betty /tmp/my_first_directory
+task8: script that Delete the file betty in /tmp/my_first_directory
+# rm -r betty /tmp/my_first_directory
