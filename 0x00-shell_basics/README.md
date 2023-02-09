@@ -19,4 +19,4 @@ task8: script that Delete the file betty in /tmp/my_first_directory
 task9: script that Delete the directory my_first_directory that is in the /tmp directory.
 rmdir /tmp/my_first_directory
 task10: script that changes the working directory to the previous one.
-#cd ../
+#cd -
