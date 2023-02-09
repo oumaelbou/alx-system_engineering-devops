@@ -8,3 +8,6 @@ task3:script that Display current directory contents with details
 #ls -l
 task4: script that Display current directory contents, including hidden files, with details
 #ls -al
+task5: script that Display current directory contents, including hidden files, with details and with user and group IDs displayed numerically
+#ls -al -n
+
