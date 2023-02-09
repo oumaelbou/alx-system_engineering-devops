@@ -12,3 +12,5 @@ task5: script that Display current directory contents, including hidden files, w
 #ls -al -n
 task6: script that creates a directory named my_first_directory in the /tmp/ directory
 #mkdir /tmp/my_first_directory
+task7: script that Move the file betty from /tmp/ to /tmp/my_first_directory
+#mkdir /tmp/betty /tmp/my_first_directory
