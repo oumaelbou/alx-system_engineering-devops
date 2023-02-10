@@ -9,3 +9,4 @@ task7: script that adds execution permission to the owner, the group owner and t
 task8: script that adds all permission to the others,no permission at all to owner and group owner, to the file hello
 task9: script that sets the mode of the file hello to this rwxr-x-wx
 task10: script that sets the mode of the file hello the same as olleh’s mode.
+task11: script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
