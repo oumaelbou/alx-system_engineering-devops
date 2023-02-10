@@ -7,3 +7,4 @@ task5: script that adds execute permission to the owner of the file hello.
 task6: script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
 task7: script that adds execution permission to the owner, the group owner and the other users, to the file hello
 task8: script that adds all permission to the others,no permission at all to owner and group owner, to the file hello
+task9: script that sets the mode of the file hello to this rwxr-x-wx
