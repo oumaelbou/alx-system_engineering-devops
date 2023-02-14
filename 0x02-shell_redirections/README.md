@@ -13,3 +13,4 @@ Task11: script that counts the number of directories and sub-directories in the 
 Task12: script that displays the 10 newest files in the current directory.
 Task13: script that takes a list of words as input and prints only words that appear exactly once.
 Task15: script that Display the number of lines that contain the pattern “bin” in the file /etc/passwd
+Task16: script that Display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
