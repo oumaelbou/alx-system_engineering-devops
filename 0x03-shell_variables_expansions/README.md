@@ -13,3 +13,10 @@ TASK10: a script that displays the result of BREATH to the power LOVE, BREATH an
 TASK11: a script that converts a number from base 2 to base 10.
 
 ,The number in base 2 is stored in the environment variable BINARY
+TASK12: a script that prints all possible combinations of two letters, except oo.
+
+Letters are lower cases, from a to z
+One combination per line
+The output should be alpha ordered, starting with aa
+Do not print oo
+Your script file should contain maximum 64 characters
