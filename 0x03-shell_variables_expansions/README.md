@@ -8,3 +8,4 @@ TASK5: script that lists all local variables and environment variables, and func
 TASK6: a script that creates a new local variable.
 TASK7: a script that creates a new global variable.
 TASK8: a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
+TASK9:a script that prints the result of POWER divided by DIVIDE, followed by a new line.
