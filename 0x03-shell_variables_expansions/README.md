@@ -7,3 +7,4 @@ TASK4: a script that lists environment variables.
 TASK5: script that lists all local variables and environment variables, and functions.
 TASK6: a script that creates a new local variable.
 TASK7: a script that creates a new global variable.
+TASK8: a script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
